@@ -1,0 +1,20 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local vector-store and runtime artifacts
+chroma_data/
+**/chroma.sqlite3
+**/chroma.sqlite3-wal
+**/chroma.sqlite3-shm
+agents/*/
+**/agent_memory.json
+
+# Local editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

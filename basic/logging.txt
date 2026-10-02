@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: add 123 , 22
+AI: Sure, adding 123 and 22 gives 145.
+
+You: add 38,2
+AI: Sure, adding 38 and 2 is 60.
+
+End of Conversation
